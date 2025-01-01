@@ -250,7 +250,7 @@ This project demonstrates the design and simulation of a 32-byte CMOS SRAM with 
 ## Acknowledgement
 Special thanks to mentors, peers, and the VLSI design community for their guidance and resources throughout this project.
 
-Feel free to explore the repository for insights into the design and implementation of LDO Volateg Regulator. Contributions and feedback are welcome!
+Feel free to explore the repository for insights into the design of CMOS based SRAM using 180nm technology. Contributions and feedback are welcome!
 
 ***If you find this repository helpful, please consider giving it a ⭐!***
 
