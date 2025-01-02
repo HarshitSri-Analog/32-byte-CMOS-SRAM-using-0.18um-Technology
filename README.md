@@ -1,7 +1,7 @@
 # 32-byte CMOS SRAM design using 0.18µm Technology
 
 ## Overview
-This repository contains the design, simulation, and analysis of a 32-byte CMOS SRAM implemented using 0.18µm CMOS technology. The project includes detailed schematics, layouts, and simulation results to provide insights into SRAM operation, design considerations, and performance metrics.
+This repository contains the design, simulation, and analysis of a 32-byte CMOS SRAM implemented using 0.18µm CMOS technology. The project includes detailed schematics and simulation results to provide insights into SRAM operation, design considerations, and performance metrics.
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -42,7 +42,6 @@ Static Random Access Memory (SRAM) is a critical component in modern digital sys
 - **Power Consumption**: Optimization for low static and dynamic power.
 - **Speed**: Minimization of access and write delays.
 - **Stability**: Ensuring proper operation under varying supply voltages and temperatures.
-- **Area**: Efficient layout to minimize silicon real estate.
 
 ## Components of SRAM
 ### 6T SRAM Cell
